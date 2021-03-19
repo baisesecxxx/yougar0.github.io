@@ -5,6 +5,8 @@
 
 # Change Log
 
+* 2021-03-19 Apache Solr 任意文件读取
+* 2021-03-19 F5 BIG-IP iControl RCE(CVE-2021-22986)
 * 2021-02-20 Apache Druid 远程代码执行漏洞（CVE-2021-25646）
 * 2021-01-13 CVE-2020-3452
 * 2021-01-04 添加 Beescms_v4.0 sql注入漏洞分析
