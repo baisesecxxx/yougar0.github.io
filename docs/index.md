@@ -5,6 +5,7 @@
 
 # Change Log
 
+* 2021-03-21 vCenter 6.5-7.0 RCE 漏洞检测POC(CVE-2021-21972)
 * 2021-03-19 Apache Solr 任意文件读取
 * 2021-03-19 F5 BIG-IP iControl RCE(CVE-2021-22986)
 * 2021-02-20 Apache Druid 远程代码执行漏洞（CVE-2021-25646）
