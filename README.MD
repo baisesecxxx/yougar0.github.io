@@ -5,6 +5,7 @@
 
 # Change Log
 
+* 2021-03-25 蓝凌OA EKP 后台SQL注入漏洞 CNVD-2021-01363
 * 2021-03-24 Apache OFBiz RMI反序列化漏洞 CVE-2021-26295
 * 2021-03-24 MessageSolution 邮件归档系统EEA 信息泄露漏洞 CNVD-2021-10543
 * 2021-03-21 vCenter 6.5-7.0 RCE 漏洞检测POC(CVE-2021-21972)
