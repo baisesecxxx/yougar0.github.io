@@ -5,6 +5,11 @@
 
 # Change Log
 
+* 2021-03-31 VMware vRealize Operations Manager SSRF漏洞 CVE-2021-21975
+* 2021-03-31 DD-WRT UPNP缓冲区溢出漏洞 CVE-2021-27137
+* 2021-03-31 中新金盾信息安全管理系统 默认超级管理员密码漏洞
+* 2021-03-31 帆软报表 v8.0 任意文件读取漏洞 CNVD-2018-04757
+* 2021-03-31 Jupyter Notebook 未授权访问远程命令执行漏洞
 * 2021-03-29 Mybb-XSS_SQL_RCE-POC(CVE-2021-27890 & CVE-2021-27889)
 * 2021-03-29 JD-FreeFuck 后台命令执行漏洞
 * 2021-03-29 思福迪堡垒机 任意⽤户登录漏洞
